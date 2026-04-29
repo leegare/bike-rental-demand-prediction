@@ -1,4 +1,4 @@
-# Project3
+# Predicting Bike Rental Demand from Weather and Time Trends
 ## Summary: 
 This study examines the determinants of public bike-sharing demand using the Capital Bikeshare dataset (2011–2012) enriched with weather data. Statistical analyses reveal significant differences in ridership patterns across weekdays and weekends, as well as between casual and registered users. Weather, particularly perceived temperature, emerges as a dominant predictor of demand, exhibiting a strong correlation with ridership volume. Regression and time-series models are applied to forecast demand, with linear regression (using perceived temperature) outperforming ARIMA and manual sinusoidal models in predictive accuracy on test data. Findings underscore the importance of integrating temporal and meteorological factors in forecasting systems to enhance resource allocation, optimize bike distribution, and mitigate service shortages within urban mobility networks.
 
